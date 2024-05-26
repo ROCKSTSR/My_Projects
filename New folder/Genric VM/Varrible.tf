@@ -1,0 +1,3 @@
+variable "maps_variable" {
+
+}
